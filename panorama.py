@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Konfiguration
-IMAGE_FOLDER = 'images_2'
+IMAGE_FOLDER = 'images_number'
 PATTERN      = '*.png'   # Ändra om du använder jpg
 
 # Läs in bilder
